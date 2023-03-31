@@ -24,3 +24,4 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 12) stroke: 1 if the patient had a stroke or 0 if not
 
 
+# https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
