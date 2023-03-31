@@ -15,3 +15,6 @@ Effective: The effectiveness of the drug based on customer reviews. (Integer)
 EaseOfUse: The ease of use of the drug based on customer reviews. (Integer)
 Satisfaction: The satisfaction level of the drug based on customer reviews. (Integer)
 Information: Other relevant information about the drug. (String)
+
+
+### https://www.kaggle.com/datasets/thedevastator/drug-performance-evaluation
